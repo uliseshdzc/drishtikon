@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algebraic Geometry on drishtikon</title>
+    <link>http://localhost:1313/tags/algebraic-geometry/</link>
+    <description>Recent content in Algebraic Geometry on drishtikon</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/algebraic-geometry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Paper</title>
+      <link>http://localhost:1313/writings/firstpaper/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/firstpaper/</guid>
+      <description>&lt;p&gt;Post your &lt;strong&gt;paper&lt;/strong&gt;. &lt;a href=&#34;https://arxiv.org/&#34;&gt;ArXiv&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/&#34;&gt;Google Scholar&lt;/a&gt; will come in handy. You can also add an abstract here!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
