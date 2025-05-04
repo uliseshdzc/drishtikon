@@ -11,6 +11,9 @@ title = "drishtikon"
           block = [['\\[', '\\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [params]
     # Uncomment if you have a logo image

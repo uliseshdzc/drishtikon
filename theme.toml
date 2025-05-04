@@ -9,17 +9,11 @@ homepage = "https://github.com/gohugoio/gohugoioTheme"
 # If you have a running demo of the theme.
 demosite = "https://gohugo.io"
 
-tags = ["blog", "company"]
+tags = ["blog", "academic", "photos"]
 features = ["some", "awesome", "features"]
-
-# If the theme has multiple authors
-authors = [
-  {name = "Name of author", homepage = "Website of author"},
-  {name = "Name of author", homepage = "Website of author"}
-]
 
 # If the theme has a single author
 [author]
-    name = "Your name"
-    homepage = "Your website"
+    name = "Kishen Narayan"
+    homepage = "kishenarayan.github.io"
 
