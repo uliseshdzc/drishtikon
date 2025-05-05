@@ -8,7 +8,7 @@ title = "drishtikon"
       [markup.goldmark.extensions.passthrough]
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\\[', '\\]'], ['$$', '$$']]
+          block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
 
 [caches]
