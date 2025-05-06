@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graphics on drishtikon</title>
-    <link>http://localhost:60367/tags/graphics/</link>
+    <link>http://localhost:1313/tags/graphics/</link>
     <description>Recent content in Graphics on drishtikon</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:60367/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yet Another Project</title>
-      <link>http://localhost:60367/writings/anotherproject/</link>
+      <link>http://localhost:1313/writings/anotherproject/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60367/writings/anotherproject/</guid>
+      <guid>http://localhost:1313/writings/anotherproject/</guid>
       <description>&lt;p&gt;Another great project. Items stack inside cards by publication date.&lt;/p&gt;</description>
     </item>
   </channel>

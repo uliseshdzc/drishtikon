@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stacks on drishtikon</title>
-    <link>http://localhost:60367/tags/stacks/</link>
+    <link>http://localhost:1313/tags/stacks/</link>
     <description>Recent content in Stacks on drishtikon</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:60367/tags/stacks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/stacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Paper</title>
-      <link>http://localhost:60367/writings/firstpaper/</link>
+      <link>http://localhost:1313/writings/firstpaper/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60367/writings/firstpaper/</guid>
+      <guid>http://localhost:1313/writings/firstpaper/</guid>
       <description>&lt;p&gt;Post your &lt;strong&gt;paper&lt;/strong&gt;. &lt;a href=&#34;https://arxiv.org/&#34;&gt;ArXiv&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/&#34;&gt;Google Scholar&lt;/a&gt; will come in handy. You can also add an abstract here!&lt;/p&gt;</description>
     </item>
   </channel>

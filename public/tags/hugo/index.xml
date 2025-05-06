@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on drishtikon</title>
-    <link>http://localhost:60367/tags/hugo/</link>
+    <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on drishtikon</description>
     <generator>Hugo</generator>
     <language>en-us</language>
