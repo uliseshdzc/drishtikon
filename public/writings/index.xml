@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on drishtikon</title>
-    <link>http://localhost:1313/writings/</link>
+    <link>http://localhost:60367/writings/</link>
     <description>Recent content in Writings on drishtikon</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60367/writings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expository Notes Example</title>
-      <link>http://localhost:1313/writings/expoexample/</link>
+      <link>http://localhost:60367/writings/expoexample/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/expoexample/</guid>
+      <guid>http://localhost:60367/writings/expoexample/</guid>
       <description>&lt;p&gt;This is the summary that will appear in the card. Let \(N \unlhd G\) and \(H \leq G\).&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Paper</title>
-      <link>http://localhost:1313/writings/firstpaper/</link>
+      <link>http://localhost:60367/writings/firstpaper/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/firstpaper/</guid>
+      <guid>http://localhost:60367/writings/firstpaper/</guid>
       <description>&lt;p&gt;Post your &lt;strong&gt;paper&lt;/strong&gt;. &lt;a href=&#34;https://arxiv.org/&#34;&gt;ArXiv&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/&#34;&gt;Google Scholar&lt;/a&gt; will come in handy. You can also add an abstract here!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yet Another Project</title>
-      <link>http://localhost:1313/writings/anotherproject/</link>
+      <link>http://localhost:60367/writings/anotherproject/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/anotherproject/</guid>
+      <guid>http://localhost:60367/writings/anotherproject/</guid>
       <description>&lt;p&gt;Another great project. Items stack inside cards by publication date.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Example</title>
-      <link>http://localhost:1313/writings/projectexample/</link>
+      <link>http://localhost:60367/writings/projectexample/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writings/projectexample/</guid>
+      <guid>http://localhost:60367/writings/projectexample/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;https://example.com&#34;&gt;link&lt;/a&gt; inside a summary. Link your personal projects!&lt;/p&gt;</description>
     </item>
   </channel>

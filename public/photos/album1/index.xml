@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Album 1 on drishtikon</title>
-    <link>http://localhost:1313/photos/album1/</link>
+    <link>http://localhost:60367/photos/album1/</link>
     <description>Recent content in Album 1 on drishtikon</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/photos/album1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60367/photos/album1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photo 1</title>
-      <link>http://localhost:1313/photos/album1/photo1/</link>
+      <link>http://localhost:60367/photos/album1/photo1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/album1/photo1/</guid>
+      <guid>http://localhost:60367/photos/album1/photo1/</guid>
       <description></description>
     </item>
     <item>
       <title>Photo 2</title>
-      <link>http://localhost:1313/photos/album1/photo2/</link>
+      <link>http://localhost:60367/photos/album1/photo2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/album1/photo2/</guid>
+      <guid>http://localhost:60367/photos/album1/photo2/</guid>
       <description></description>
     </item>
     <item>
       <title>Photo 4</title>
-      <link>http://localhost:1313/photos/album1/photo4/</link>
+      <link>http://localhost:60367/photos/album1/photo4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/album1/photo4/</guid>
+      <guid>http://localhost:60367/photos/album1/photo4/</guid>
       <description></description>
     </item>
   </channel>
