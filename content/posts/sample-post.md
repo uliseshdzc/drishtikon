@@ -1,6 +1,6 @@
 ---
 title: "Sample Post"
-date: 2025-04-26
+date: '2025-04-26T10:20:53-04:00'
 tags: ['webdev','hugo']
 draft: false
 ---
