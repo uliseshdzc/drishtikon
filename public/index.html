@@ -10,8 +10,6 @@
     <link rel="stylesheet" href="/css/styles.css">
     <link rel="preconnect" href="https://rsms.me/">
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-
-    
         <link
         rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css"
@@ -35,9 +33,9 @@
   document.addEventListener("DOMContentLoaded", function() {
     renderMathInElement(document.body, {
       delimiters: [
-        {left: '\\[', right: '\\]', display: true},   
+        {left: '\[', right: '\]', display: true},   
         {left: '$$', right: '$$', display: true},     
-        {left: '\\(', right: '\\)', display: false},  
+        {left: '\(', right: '\)', display: false},
       ],
       throwOnError : false
     });
@@ -48,7 +46,7 @@
 
 <body>
 <nav class="top-nav">
-        <a href="http://localhost:60367/" class="site-title">
+        <a href="http://localhost:1313/" class="site-title">
             drishtikon
         </a>
     <div class="nav-links">
@@ -85,7 +83,7 @@
         
         <div class="right-column">
             <div>
-                <h2 class="year-heading-homepage">Updates</h2>
+                <h1 class="year-heading-homepage">Updates</h1>
                 <p>No updates yet. Check back soon!</p>
             </div>
             
@@ -93,25 +91,24 @@
             
             
             <div class="year-group">
-                <h2 class="year-heading-homepage">2025</h2> 
+                <h1 class="year-heading-homepage">2025</h1> 
                 <ul class="post-list-homepage">
                     
                     <li class="post-item-homepage">
-                        <span>
-                            <a href="/posts/sample-post/" class="post-title-homepage">Sample Post</a>
+                        <span class = "post-title-homepage">
+                            <a href="/posts/sample-post/" class="post-title-homepage-link">Sample Post</a>
                         </span>
                         <span class="dot-leader"></span>
-                        <span class="post-date-homepage">4.26.2025</span>
+                        <span class="post-date-homepage">04.26</span>
                     </li>
                     
                     <li class="post-item-homepage">
-                        <span>
-                            <a href="/posts/another-sample-post/" class="post-title-homepage">Another Sample Post</a>
+                        <span class = "post-title-homepage">
+                            <a href="/posts/another-sample-post/" class="post-title-homepage-link">Another Sample Post</a>
                         </span>
                         <span class="dot-leader"></span>
-                        <span class="post-date-homepage">3.20.2025</span>
+                        <span class="post-date-homepage">03.20</span>
                     </li>
-                    
                 </ul>
             </div>
             

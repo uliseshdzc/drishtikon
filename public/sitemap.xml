@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:60367/photos/album1/photo1/</loc>
+    <loc>http://localhost:1313/photos/album1/photo1/</loc>
   </url><url>
-    <loc>http://localhost:60367/photos/album1/photo2/</loc>
+    <loc>http://localhost:1313/photos/album1/photo2/</loc>
   </url><url>
-    <loc>http://localhost:60367/photos/album2/photo3/</loc>
+    <loc>http://localhost:1313/photos/album2/photo3/</loc>
   </url><url>
-    <loc>http://localhost:60367/photos/album1/photo4/</loc>
+    <loc>http://localhost:1313/photos/album1/photo4/</loc>
   </url><url>
-    <loc>http://localhost:60367/photos/album2/photo5/</loc>
+    <loc>http://localhost:1313/photos/album2/photo5/</loc>
   </url><url>
-    <loc>http://localhost:60367/photos/album2/photo6/</loc>
+    <loc>http://localhost:1313/photos/album2/photo6/</loc>
   </url><url>
-    <loc>http://localhost:60367/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-26T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/hugo/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2025-04-26T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/posts/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-26T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/posts/sample-post/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/sample-post/</loc>
+    <lastmod>2025-04-26T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-26T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/webdev/</loc>
-    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/webdev/</loc>
+    <lastmod>2025-04-26T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/posts/another-sample-post/</loc>
+    <loc>http://localhost:1313/posts/another-sample-post/</loc>
     <lastmod>2025-03-20T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/latex/</loc>
+    <loc>http://localhost:1313/tags/latex/</loc>
     <lastmod>2025-03-20T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/photos/</loc>
+    <loc>http://localhost:1313/tags/photos/</loc>
     <lastmod>2025-03-20T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/typesetting/</loc>
+    <loc>http://localhost:1313/tags/typesetting/</loc>
     <lastmod>2025-03-20T10:20:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/algebraic-geometry/</loc>
+    <loc>http://localhost:1313/tags/algebraic-geometry/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/algorithms/</loc>
+    <loc>http://localhost:1313/tags/algorithms/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/writings/expoexample/</loc>
+    <loc>http://localhost:1313/writings/expoexample/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/writings/firstpaper/</loc>
+    <loc>http://localhost:1313/writings/firstpaper/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/mathematics/</loc>
+    <loc>http://localhost:1313/tags/mathematics/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/stacks/</loc>
+    <loc>http://localhost:1313/tags/stacks/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/writings/</loc>
+    <loc>http://localhost:1313/writings/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/animation/</loc>
+    <loc>http://localhost:1313/tags/animation/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/graphics/</loc>
+    <loc>http://localhost:1313/tags/graphics/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/writings/anotherproject/</loc>
+    <loc>http://localhost:1313/writings/anotherproject/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/education/</loc>
+    <loc>http://localhost:1313/tags/education/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/writings/projectexample/</loc>
+    <loc>http://localhost:1313/writings/projectexample/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/tags/web-dev/</loc>
+    <loc>http://localhost:1313/tags/web-dev/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:60367/photos/album1/</loc>
+    <loc>http://localhost:1313/photos/album1/</loc>
   </url><url>
-    <loc>http://localhost:60367/photos/album2/</loc>
+    <loc>http://localhost:1313/photos/album2/</loc>
   </url><url>
-    <loc>http://localhost:60367/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:60367/photos/</loc>
+    <loc>http://localhost:1313/photos/</loc>
   </url>
 </urlset>

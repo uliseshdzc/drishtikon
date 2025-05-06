@@ -13,7 +13,7 @@
         <!-- Right Column - Posts -->
         <div class="right-column">
             <div>
-                <h2 class="year-heading-homepage">Updates</h2>
+                <h1 class="year-heading-homepage">Updates</h1>
                 <p>No updates yet. Check back soon!</p>
             </div>
             {{ $posts := where site.RegularPages "Type" "posts" }}
@@ -21,15 +21,15 @@
             <!-- Group posts by year -->
             {{ range (where site.RegularPages "Type" "posts").GroupByDate "2006" }}
             <div class="year-group">
-                <h2 class="year-heading-homepage">{{ .Key }}</h2> <!-- Year -->
+                <h1 class="year-heading-homepage">{{ .Key }}</h1> <!-- Year -->
                 <ul class="post-list-homepage">
                     {{ range $recentPosts }}
                     <li class="post-item-homepage">
-                        <span>
-                            <a href="{{ .RelPermalink }}" class="post-title-homepage">{{ .Title }}</a>
+                        <span class = "post-title-homepage">
+                            <a href="{{ .RelPermalink }}" class="post-title-homepage-link">{{ .Title }}</a>
                         </span>
                         <span class="dot-leader"></span>
-                        <span class="post-date-homepage">{{ .Date.Format "1.2.2006" }}</span>
+                        <span class="post-date-homepage">{{ .Date.Format "01.02" }}</span>
                     </li>
                     {{ end }}
                 </ul>
