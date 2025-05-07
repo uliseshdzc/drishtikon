@@ -1,9 +1,9 @@
 ---
 date: '2025-03-20T10:20:53-04:00'
-draft: true
+draft: false
 tags: ['LaTeX','Typesetting', Photos]
 title: 'Another Sample Post'
-math: false 
+math: true 
 ---
 
 ## Typsetting
