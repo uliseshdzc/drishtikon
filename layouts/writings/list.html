@@ -38,7 +38,9 @@
                     <span class="writing-tags">{{ delimit . ", " }}</span>
                     {{ end }}
                 </div>
-                <div class="writing-excerpt">{{ .Summary }}</div>
+                <div class="writing-excerpt">
+                    {{ .Summary }}
+                </div>
             </article>
             {{ end }}
         </div>
