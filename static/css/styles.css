@@ -721,19 +721,18 @@ body .post-content table {
   height: 20px;
 }
 
-#albums li a {
+.album-link {
   text-decoration: none;
   color: inherit;
-
 }
 
-#albums li a.active {
+.album-link.active {
   color: #805690;
   font-weight: 700;
 }
 
-#albums li a.active img {
-   filter: invert(39%) sepia(11%) saturate(1743%) hue-rotate(243deg) brightness(94%) contrast(88%);
+.album-link.active img {
+  filter: invert(39%) sepia(11%) saturate(1743%) hue-rotate(243deg) brightness(94%) contrast(88%);
 }
 
 @media (max-width: 768px) {

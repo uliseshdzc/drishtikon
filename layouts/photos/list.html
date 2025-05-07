@@ -19,7 +19,7 @@
             <ul id="albums">
                 {{ range .Sections }}
                 <li>
-                    <a href="javascript:void(0)" onclick="selectAlbum('{{ .Title | urlize }}')" class>
+                    <a href="javascript:void(0)" onclick="selectAlbum('{{ .Title | urlize }}')" data-album="{{ .Title | urlize }}" class="album-link">
                         <img src="/icons/folder2-open.svg" alt="Album Icon" />
                         {{ .Title }}
                     </a>

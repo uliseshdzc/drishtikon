@@ -24,21 +24,24 @@ function prevPhoto() {
 
 function selectAlbum(albumName) {
   if (albums.hasOwnProperty(albumName)) {
-      // Remove active class from all album links
-      document.querySelectorAll('#albums li a').forEach(link => {
-        link.classList.remove('active');
-      });
+    // Remove active class from all album links
+    document.querySelectorAll('.album-link').forEach(link => {
+      link.classList.remove('active');
+    });
 
-      // Add active class to the selected album link
-      const selectedLink = document.querySelector(`#albums li a[onclick="selectAlbum('${albumName}')"]`);
-      if (selectedLink) {
-        selectedLink.classList.add('active');
-      }
+    // Add active class to the selected album link
+    const selectedLink = document.querySelector(`.album-link[data-album="${albumName}"]`);
+    if (selectedLink) {
+          selectedLink.classList.add('active');
+          console.log(`Activated album: ${albumName}`, selectedLink); // DEBUG
+        } else {
+          console.warn(`No album link found for: ${albumName}`); // DEBUG
+        }
 
-      currentAlbum = albumName;
-      currentIndex = 0;
-      updateView();
-    }
+    currentAlbum = albumName;
+    currentIndex = 0;
+    updateView();
+  }
 }
 
 // Keyboard navigation
@@ -48,6 +51,13 @@ document.addEventListener('keydown', function (e) {
   } else if (e.key === 'ArrowLeft') {
     prevPhoto();
   }
+});
+
+document.querySelectorAll('.album-link').forEach(link => {
+  link.addEventListener('click', function() {
+    const albumName = this.getAttribute('data-album');
+    selectAlbum(albumName);
+  });
 });
 
 window.onload = function () {
