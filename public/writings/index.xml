@@ -20,7 +20,7 @@
       <link>http://localhost:1313/writings/firstpaper/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/firstpaper/</guid>
-      <description>&lt;p&gt;Post your &lt;strong&gt;paper&lt;/strong&gt;. &lt;a href=&#34;https://arxiv.org/&#34;&gt;ArXiv&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/&#34;&gt;Google Scholar&lt;/a&gt; will come in handy. You can also add an abstract here!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Post your &lt;strong&gt;paper&lt;/strong&gt;. &lt;a href=&#34;%22https://arxiv.org/%22&#34;&gt;ArXiv&lt;/a&gt; and &lt;a href=&#34;%22https://scholar.google.com/%22&#34;&gt;Google Scholar&lt;/a&gt; will come in handy. You can also add an abstract here!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yet Another Project</title>
@@ -34,7 +34,7 @@
       <link>http://localhost:1313/writings/projectexample/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/projectexample/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&#34;https://example.com&#34;&gt;link&lt;/a&gt; inside a summary. Link your personal projects!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Here&amp;rsquo;s a &lt;!-- raw HTML omitted --&gt;link&lt;!-- raw HTML omitted --&gt; inside a summary. Link your personal projects!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
