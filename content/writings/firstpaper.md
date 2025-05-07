@@ -2,6 +2,7 @@
 title: "First Paper"
 date: 2023-06-15
 category: "research"
+draft: true; 
 tags: ["algebraic geometry", "stacks"]
 ---
 
