@@ -3,7 +3,7 @@ date: '2025-03-20T10:20:53-04:00'
 draft: true
 tags: ['LaTeX','Typesetting', Photos]
 title: 'Another Sample Post'
-math: true 
+math: false 
 ---
 
 ## Typsetting

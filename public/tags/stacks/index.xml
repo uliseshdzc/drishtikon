@@ -13,7 +13,7 @@
       <link>http://localhost:1313/writings/firstpaper/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/firstpaper/</guid>
-      <description>&lt;p&gt;Post your &lt;strong&gt;paper&lt;/strong&gt;. &lt;!-- raw HTML omitted --&gt;ArXiv&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;Google Scholar&lt;!-- raw HTML omitted --&gt; will come in handy. You can also add an abstract here!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Post your &lt;strong&gt;paper&lt;/strong&gt;. &lt;a href=&#34;%22https://arxiv.org/%22&#34;&gt;ArXiv&lt;/a&gt; and &lt;a href=&#34;%22https://scholar.google.com/%22&#34;&gt;Google Scholar&lt;/a&gt; will come in handy. You can also add an abstract here!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
