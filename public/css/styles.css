@@ -30,6 +30,7 @@ a {
     text-decoration: none !important;
     opacity: 0.7;
     transition: background-size 0.3s ease;
+    color: #805690;
 }
 
 a.site-title{
