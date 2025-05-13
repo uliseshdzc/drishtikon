@@ -14,7 +14,7 @@
         <div class="right-column">
             <div>
                 <h1 class="year-heading-homepage">Updates</h1>
-                <p>No updates yet. Check back soon!</p>
+                <p>{{ .Site.Params.profileUpdates | markdownify }}</p>
             </div>
             {{ $posts := where site.RegularPages "Type" "posts" }}
             {{ $recentPosts := first 5 ($posts.ByDate.Reverse)}}
